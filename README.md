@@ -27,7 +27,7 @@ It also includes functionality to:
    javac Book.java Library.java Main.java
 
 **   🗂 Project Structure**
-book-manager-java/
+book_collection_app/
 ├── Book.java
 ├── Library.java
 ├── Main.java
