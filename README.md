@@ -1,4 +1,4 @@
-# 📚 Book Collection Manager (Java)
+# 📚 Book Collection Application (Java)
 
 This is a simple Java program that demonstrates basic object-oriented programming by managing a collection of books.
 
